@@ -1,0 +1,22 @@
+.msg {
+    width:100%;
+    border: 1px solid;
+    padding:10px;
+    margin: 20px;
+    color: grey;
+  }
+  .msg-error {
+
+    border-color: #d32f2f;
+    background-color: #ef5350;
+    color: white;
+  }
+  
+  .msg-success {
+
+    border-color: #22c069;
+    background-color: #24af18;
+    color: white;
+  }
+  
+  
